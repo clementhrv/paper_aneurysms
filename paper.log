@@ -1,0 +1,1079 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.11.26)  15 JUL 2025 15:31
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**c:/Users/terve/Documents/0-MINES/Projet_TRELLIS/0_paper/paper.tex
+(c:/Users/terve/Documents/0-MINES/Projet_TRELLIS/0_paper/paper.tex
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-09-28> (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/latex/revtex\revtex4-2.cls
+Document Class: revtex4-2 2022/06/05 4.2f (https://journals.aps.org/revtex/ for documentation)
+ Copyright (c) 2019 American Physical Society.
+ mailto:revtex@aps.org
+ Licensed under the LPPL:
+http://www.ctan.org/tex-archive/macros/latex/base/lppl.txt
+ Arthur Ogawa <arthur_ogawa at sbcglobal dot net>
+ Based on work by David Carlisle <david at dcarlisle.demon.co.uk>
+ Version (4.2d--4.2f): Modified by Mark Doyle and Phelype Oleinik
+ .
+ltxutil[2022/06/05 4.2f utilities package (portions licensed from W. E. Baxter web at superscript.com)]
+LaTeX Info: Redefining \@centercr on input line 356.
+Class revtex4-2 Info: Repairing broken LaTeX eqnarray on input line 417.
+\eqncolsep=\skip47
+Class revtex4-2 Info: Repairing hyperref-unfriendly LaTeX definition of \mpfootnote on input line 492.
+Class revtex4-2 Info: Repairing broken LateX \@sect on input line 814.
+\intertabularlinepenalty=\count185
+\@tbpen=\count186
+\@arstrutbox@hline=\box51
+Class revtex4-2 Info: Repairing broken LaTeX \@xbitor on input line 1845.
+Class revtex4-2 Info: Making \typeout \long on input line 2110.
+ltxfront[2022/06/05 4.2f frontmatter package (AO,DPC,MD)]
+\c@affil=\count187
+\c@collab=\count188
+\absbox=\box52
+ltxgrid[2022/06/05 4.2f page grid package (portions licensed from W. E. Baxter web at superscript.com)]
+\c@linecount=\count189
+\output@latex=\toks16
+\box@size@1=\box53
+\box@size@2=\box54
+\@protection@box=\box55
+\@topmark@saved=\toks17
+\footins@saved=\box56
+\footins@recovered=\box57
+\column@recovered=\box58
+\pagesofar=\box59
+\footsofar=\box60
+\pagegrid@col=\count190
+Class revtex4-2 Info: Overriding \@vspace, \@vspacer, \@no@pgbk, \@newline, and \\  on input line 5676.
+\c@part=\count191
+\c@section=\count192
+\c@subsection=\count193
+\c@subsubsection=\count194
+\c@paragraph=\count195
+\c@subparagraph=\count196
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\c@figure=\count197
+\fbox@1=\box61
+\c@table=\count198
+\fbox@2=\box62
+\c@video=\count199
+\fbox@4=\box63
+\@bibdataout=\write3
+\widetext@top=\box64
+\widetext@bot=\box65
+Class revtex4-2 Info: Selecting society aps on input line 7669.
+(C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/latex/revtex\aps4-2.rtx
+File: aps4-2 2022/06/05 4.2f (https://journals.aps.org/revtex/ for documentation)
+Class revtex4-2 Info: RevTeX society APS selected on input line 40.
+)
+
+Class revtex4-2 Warning: No journal specified, using default pra.
+
+Class revtex4-2 Info: APS journal PRA selected on input line 7672.
+(C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/latex/revtex\aps10pt4-2.rtx
+File: aps10pt4-2 2022/06/05 4.2f (https://journals.aps.org/revtex/ for documentation)
+Class revtex4-2 Info: RevTeX pointsize 10pt selected on input line 39.
+) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/latex/textcase\textcase.sty
+Package: textcase 2023/07/27 v1.04 Text only upper/lower case changing (DPC)
+Package textcase Info: Defining Legacy names on input line 20.
+) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks18
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2022/04/08 v2.17n AMS math features
+\@mathmargin=\skip50
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen138
+)
+LaTeX Info: Redefining \text on input line 28.
+) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen139
+) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count266
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count267
+\leftroot@=\count268
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count269
+\DOTSCASE@=\count270
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box66
+\strutbox@=\box67
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen140
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count271
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count272
+\dotsspace@=\muskip16
+\c@parentequation=\count273
+\dspbrk@lvl=\count274
+\tag@help=\toks20
+\row@=\count275
+\column@=\count276
+\maxfields@=\count277
+\andhelp@=\toks21
+\eqnshift@=\dimen141
+\alignsep@=\dimen142
+\tagshift@=\dimen143
+\tagwidth@=\dimen144
+\totwidth@=\dimen145
+\lineht@=\dimen146
+\@envbody=\toks22
+\multlinegap=\skip51
+\multlinetaggap=\skip52
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip53
+\bibsep=\skip54
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count278
+)
+Class revtex4-2 Info: Repairing natbib's \BibitemShut on input line 7676.
+ (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/latex/revtex\revsymb4-2.sty
+Package: revsymb4-2 2022/06/05 4.2f (https://journals.aps.org/revtex/ for documentation)
+LaTeX Info: Redefining \frak on input line 104.
+LaTeX Info: Redefining \Bbb on input line 120.
+LaTeX Info: Redefining \REV@mathfrak on input line 128.
+)) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks24
+) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+\stockwidth=\dimen147
+\stockheight=\dimen148
+))
+\Gin@req@height=\dimen149
+\Gin@req@width=\dimen150
+) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/latex/tools\dcolumn.sty
+Package: dcolumn 2014/10/28 v1.06 decimal alignment package (DPC)
+ (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2022/03/10 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen151
+\ar@mcellbox=\box68
+\extrarowheight=\dimen152
+\NC@list=\toks25
+\extratabsurround=\skip55
+\backup@length=\skip56
+\ar@cellbox=\box69
+)) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+ (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+ (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen153
+\captionmargin=\dimen154
+\caption@leftmargin=\dimen155
+\caption@rightmargin=\dimen156
+\caption@width=\dimen157
+\caption@indent=\dimen158
+\caption@parindent=\dimen159
+\caption@hangindent=\dimen160
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+Package caption Info: \@makecaption = \long macro:#1#2->\par \vskip \abovecaptionskip \begingroup \small \rmfamily \sbox \@tempboxa {\let \\\heading@cr \@make@capt@title {#1}{#2}}\@ifdim {\wd \@tempboxa >\hsize }{\begingroup \samepage \flushing \let \footnote \@footnotemark@gobble \@make@capt@title {#1}{#2}\par \endgroup }{\global \@minipagefalse \hb@xt@ \hsize {\hfil \unhbox \@tempboxa \hfil }}\endgroup \vskip \belowcaptionskip  on input line 1175.
+)
+
+Package caption Warning: Unknown document class (or package),
+(caption)                standard defaults will be used.
+See the caption package documentation for explanation.
+
+\c@caption@flags=\count279
+\c@continuedfloat=\count280
+)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count281
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count282
+) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/latex/tools\bm.sty
+Package: bm 2022/01/05 v1.2f Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup6
+\symboldletters=\mathgroup7
+\symboldsymbols=\mathgroup8
+Package bm Info: No bold for \OMX/cmex/m/n, using \pmb.
+Package bm Info: No bold for \U/msa/m/n, using \pmb.
+Package bm Info: No bold for \U/msb/m/n, using \pmb.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 149.
+LaTeX Info: Redefining \bm on input line 219.
+) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2022-09-22 v7.00t Hypertext links for LaTeX
+ (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
+ (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+ (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count283
+)
+\@linkdim=\dimen161
+\Hy@linkcounter=\count284
+\Hy@pagecounter=\count285
+ (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2022-09-22 v7.00t Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count286
+ (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2022-09-22 v7.00t Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4162.
+Package hyperref Info: Link nesting OFF on input line 4167.
+Package hyperref Info: Hyper index ON on input line 4170.
+Package hyperref Info: Plain pages OFF on input line 4177.
+Package hyperref Info: Backreferencing OFF on input line 4182.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4410.
+LaTeX Info: Redefining \href on input line 4659.
+\c@Hy@tempcnt=\count287
+LaTeX Info: Redefining \url on input line 4748.
+\XeTeXLinkMargin=\dimen162
+ (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count288
+\Field@Width=\dimen163
+\Fld@charsize=\dimen164
+Package hyperref Info: Hyper figures OFF on input line 6027.
+Package hyperref Info: Link nesting OFF on input line 6032.
+Package hyperref Info: Hyper index ON on input line 6035.
+Package hyperref Info: backreferencing OFF on input line 6042.
+Package hyperref Info: Link coloring OFF on input line 6047.
+Package hyperref Info: Link coloring with OCG OFF on input line 6052.
+Package hyperref Info: PDF/A mode OFF on input line 6057.
+ (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count289
+\c@Item=\count290
+\c@Hfootnote=\count291
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2022-09-22 v7.00t Hyperref driver for pdfTeX
+ (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
+with kernel methods
+)
+\Fld@listcount=\count292
+\c@bookmark@seq@number=\count293
+ (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+ (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
+)
+\Hy@SectionHShift=\skip57
+) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
+\pgfutil@everybye=\toks26
+\pgfutil@tempdima=\dimen165
+\pgfutil@tempdimb=\dimen166
+ (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common-lists.tex)) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
+\pgfutil@abb=\box70
+) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+))
+Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
+ (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
+ (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks27
+\pgfkeys@temptoks=\toks28
+ (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks29
+))
+\pgf@x=\dimen167
+\pgf@y=\dimen168
+\pgf@xa=\dimen169
+\pgf@ya=\dimen170
+\pgf@xb=\dimen171
+\pgf@yb=\dimen172
+\pgf@xc=\dimen173
+\pgf@yc=\dimen174
+\pgf@xd=\dimen175
+\pgf@yd=\dimen176
+\w@pgf@writea=\write4
+\r@pgf@reada=\read2
+\c@pgf@counta=\count294
+\c@pgf@countb=\count295
+\c@pgf@countc=\count296
+\c@pgf@countd=\count297
+\t@pgf@toka=\toks30
+\t@pgf@tokb=\toks31
+\t@pgf@tokc=\toks32
+\pgf@sys@id@count=\count298
+ (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+ (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
+ (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
+))) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count299
+\pgfsyssoftpath@bigbuffer@items=\count300
+) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+ (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+ (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
+Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
+ (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
+\pgfmath@dimen=\dimen177
+\pgfmath@count=\count301
+\pgfmath@box=\box71
+\pgfmath@toks=\toks33
+\pgfmath@stack@operand=\toks34
+\pgfmath@stack@operation=\toks35
+) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex))) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count302
+)) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.tex) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@picminx=\dimen178
+\pgf@picmaxx=\dimen179
+\pgf@picminy=\dimen180
+\pgf@picmaxy=\dimen181
+\pgf@pathminx=\dimen182
+\pgf@pathmaxx=\dimen183
+\pgf@pathminy=\dimen184
+\pgf@pathmaxy=\dimen185
+\pgf@xx=\dimen186
+\pgf@xy=\dimen187
+\pgf@yx=\dimen188
+\pgf@yy=\dimen189
+\pgf@zx=\dimen190
+\pgf@zy=\dimen191
+) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@path@lastx=\dimen192
+\pgf@path@lasty=\dimen193
+) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@shorten@end@additional=\dimen194
+\pgf@shorten@start@additional=\dimen195
+) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfpic=\box72
+\pgf@hbox=\box73
+\pgf@layerbox@main=\box74
+\pgf@picture@serial@count=\count303
+) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgflinewidth=\dimen196
+) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@pt@x=\dimen197
+\pgf@pt@y=\dimen198
+\pgf@pt@temp=\dimen199
+) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowsep=\dimen256
+) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@max=\dimen257
+\pgf@sys@shading@range@num=\count304
+\pgf@shadingcount=\count305
+) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+ (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfexternal@startupbox=\box75
+)) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodeparttextbox=\box76
+) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@nodesepstart=\dimen258
+\pgf@nodesepend=\dimen259
+) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
+)) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex)) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
+Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
+ (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)
+\pgffor@iter=\dimen260
+\pgffor@skip=\dimen261
+\pgffor@stack=\toks36
+\pgffor@toks=\toks37
+)) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
+Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
+ (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@plot@mark@count=\count306
+\pgfplotmarksize=\dimen262
+)
+\tikz@lastx=\dimen263
+\tikz@lasty=\dimen264
+\tikz@lastxsaved=\dimen265
+\tikz@lastysaved=\dimen266
+\tikz@lastmovetox=\dimen267
+\tikz@lastmovetoy=\dimen268
+\tikzleveldistance=\dimen269
+\tikzsiblingdistance=\dimen270
+\tikz@figbox=\box77
+\tikz@figbox@bg=\box78
+\tikz@tempbox=\box79
+\tikz@tempbox@bg=\box80
+\tikztreelevel=\count307
+\tikznumberofchildren=\count308
+\tikznumberofcurrentchild=\count309
+\tikz@fig@count=\count310
+ (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfmatrixcurrentrow=\count311
+\pgfmatrixcurrentcolumn=\count312
+\pgf@matrix@numberofcolumns=\count313
+)
+\tikz@expandcount=\count314
+ (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen271
+\lightrulewidth=\dimen272
+\cmidrulewidth=\dimen273
+\belowrulesep=\dimen274
+\belowbottomsep=\dimen275
+\aboverulesep=\dimen276
+\abovetopsep=\dimen277
+\cmidrulesep=\dimen278
+\cmidrulekern=\dimen279
+\defaultaddspace=\dimen280
+\@cmidla=\count315
+\@cmidlb=\count316
+\@aboverulesep=\dimen281
+\@belowrulesep=\dimen282
+\@thisruleclass=\count317
+\@lastruleclass=\count318
+\@thisrulewidth=\dimen283
+) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
+\multirow@colwidth=\skip58
+\multirow@cntb=\count319
+\multirow@dima=\skip59
+\bigstrutjot=\dimen284
+) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen285
+\TX@old@table=\dimen286
+\TX@old@col=\dimen287
+\TX@target=\dimen288
+\TX@delta=\dimen289
+\TX@cols=\count320
+\TX@ftn=\toks38
+) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+ (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\pgflibraryshapes.geometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryarrows.meta.code.tex
+File: pgflibraryarrows.meta.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowinset=\dimen290
+\pgfarrowlength=\dimen291
+\pgfarrowwidth=\dimen292
+\pgfarrowlinewidth=\dimen293
+) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+Class revtex4-2 Info: Unrecognized array package. Please update this document class! (Proceeding with fingers crossed.) on input line 24.
+Class revtex4-2 Info: cite was not loaded (OK!) on input line 24.
+Class revtex4-2 Info: mcite was not loaded (OK!) on input line 24.
+Class revtex4-2 Info: multicol was not loaded (OK!) on input line 24.
+ (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count321
+\l__pdf_internal_box=\box81
+) (paper.aux)
+\openout1 = `paper.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+ (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count322
+\scratchdimen=\dimen294
+\scratchbox=\box82
+\nofMPsegments=\count323
+\nofMParguments=\count324
+\everyMPshowfont=\toks39
+\MPscratchCnt=\count325
+\MPscratchDim=\dimen295
+\MPnumerator=\count326
+\makeMPintoPDFobject=\count327
+\everyMPtoPDFconversion=\toks40
+) (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+Package hyperref Info: Link coloring OFF on input line 24.
+ (paper.out) (paper.out)
+\@outlinefile=\write5
+\openout5 = `paper.out'.
+
+Class revtex4-2 Info: Taking \maketitle back from hyperref on input line 24.
+\openout3 = `paperNotes.bib'.
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 58.
+ (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 58.
+ (C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1{C:/Users/terve/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+<./figures//vessel_intra_1.png, id=144, 292.8553pt x 309.57448pt>
+File: ./figures//vessel_intra_1.png Graphic file (type png)
+<use ./figures//vessel_intra_1.png>
+Package pdftex.def Info: ./figures//vessel_intra_1.png  used on input line 77.
+(pdftex.def)             Requested size: 91.79626pt x 97.03465pt.
+<./figures//vessel_intra_2.png, id=146, 254.56299pt x 343.01283pt>
+File: ./figures//vessel_intra_2.png Graphic file (type png)
+<use ./figures//vessel_intra_2.png>
+Package pdftex.def Info: ./figures//vessel_intra_2.png  used on input line 78.
+(pdftex.def)             Requested size: 71.39969pt x 96.21042pt.
+<./figures//aneu_intra_2.png, id=147, 285.84402pt x 304.72052pt>
+File: ./figures//aneu_intra_2.png Graphic file (type png)
+<use ./figures//aneu_intra_2.png>
+Package pdftex.def Info: ./figures//aneu_intra_2.png  used on input line 79.
+(pdftex.def)             Requested size: 81.60187pt x 86.99039pt.
+<./figures//aneu_intra_1.png, id=148, 318.20374pt x 270.74283pt>
+File: ./figures//aneu_intra_1.png Graphic file (type png)
+<use ./figures//aneu_intra_1.png>
+Package pdftex.def Info: ./figures//aneu_intra_1.png  used on input line 80.
+(pdftex.def)             Requested size: 96.90125pt x 82.4463pt.
+<./figures//aneu-axplore_1.png, id=149, 360.27135pt x 399.64232pt>
+File: ./figures//aneu-axplore_1.png Graphic file (type png)
+<use ./figures//aneu-axplore_1.png>
+Package pdftex.def Info: ./figures//aneu-axplore_1.png  used on input line 87.
+(pdftex.def)             Requested size: 86.69907pt x 96.17223pt.
+<./figures//aneu-axplore_2.png, id=150, 285.84402pt x 291.77664pt>
+File: ./figures//aneu-axplore_2.png Graphic file (type png)
+<use ./figures//aneu-axplore_2.png>
+Package pdftex.def Info: ./figures//aneu-axplore_2.png  used on input line 88.
+(pdftex.def)             Requested size: 86.69907pt x 88.49977pt.
+<./figures//aneu-axplore_3.png, id=151, 288.00134pt x 293.39462pt>
+File: ./figures//aneu-axplore_3.png Graphic file (type png)
+<use ./figures//aneu-axplore_3.png>
+Package pdftex.def Info: ./figures//aneu-axplore_3.png  used on input line 89.
+(pdftex.def)             Requested size: 86.69907pt x 88.319pt.
+<./figures//aneu-axplore_4.png, id=152, 359.19269pt x 374.29388pt>
+File: ./figures//aneu-axplore_4.png Graphic file (type png)
+<use ./figures//aneu-axplore_4.png>
+Package pdftex.def Info: ./figures//aneu-axplore_4.png  used on input line 90.
+(pdftex.def)             Requested size: 86.69907pt x 90.34065pt.
+<./figures//003.png, id=153, 513.92pt x 513.92pt>
+File: ./figures//003.png Graphic file (type png)
+<use ./figures//003.png>
+Package pdftex.def Info: ./figures//003.png  used on input line 103.
+(pdftex.def)             Requested size: 39.27089pt x 39.26378pt.
+<./figures//016.png, id=154, 513.92pt x 513.92pt>
+File: ./figures//016.png Graphic file (type png)
+<use ./figures//016.png>
+Package pdftex.def Info: ./figures//016.png  used on input line 104.
+(pdftex.def)             Requested size: 39.27089pt x 39.26378pt.
+<./figures//030.png, id=155, 513.92pt x 513.92pt>
+File: ./figures//030.png Graphic file (type png)
+<use ./figures//030.png>
+Package pdftex.def Info: ./figures//030.png  used on input line 105.
+(pdftex.def)             Requested size: 39.27089pt x 39.26378pt.
+<./figures//087.png, id=156, 374.39874pt x 288.07625pt>
+File: ./figures//087.png Graphic file (type png)
+<use ./figures//087.png>
+Package pdftex.def Info: ./figures//087.png  used on input line 106.
+(pdftex.def)             Requested size: 39.27089pt x 30.21593pt.
+<./figures//129.png, id=157, 513.92pt x 513.92pt>
+File: ./figures//129.png Graphic file (type png)
+<use ./figures//129.png>
+Package pdftex.def Info: ./figures//129.png  used on input line 108.
+(pdftex.def)             Requested size: 39.27089pt x 39.26378pt.
+<./figures//131.png, id=158, 379.4175pt x 334.24875pt>
+File: ./figures//131.png Graphic file (type png)
+<use ./figures//131.png>
+Package pdftex.def Info: ./figures//131.png  used on input line 109.
+(pdftex.def)             Requested size: 39.27089pt x 34.59477pt.
+<./figures//135.png, id=159, 330.23375pt x 266.9975pt>
+File: ./figures//135.png Graphic file (type png)
+<use ./figures//135.png>
+Package pdftex.def Info: ./figures//135.png  used on input line 110.
+(pdftex.def)             Requested size: 39.27089pt x 31.74905pt.
+<./figures//146.png, id=160, 384.43625pt x 417.56pt>
+File: ./figures//146.png Graphic file (type png)
+<use ./figures//146.png>
+Package pdftex.def Info: ./figures//146.png  used on input line 111.
+(pdftex.def)             Requested size: 39.27089pt x 42.65044pt.
+<./figures//voxel.png, id=161, 119.19157pt x 92.22514pt>
+File: ./figures//voxel.png Graphic file (type png)
+<use ./figures//voxel.png>
+Package pdftex.def Info: ./figures//voxel.png  used on input line 116.
+(pdftex.def)             Requested size: 153.00156pt x 118.3883pt.
+<./figures//point_cloud.png, id=162, 700.11563pt x 590.95781pt>
+File: ./figures//point_cloud.png Graphic file (type png)
+<use ./figures//point_cloud.png>
+Package pdftex.def Info: ./figures//point_cloud.png  used on input line 121.
+(pdftex.def)             Requested size: 153.00156pt x 129.14545pt.
+ [2 <./figures//vessel_intra_1.png> <./figures//vessel_intra_2.png> <./figures//aneu_intra_2.png> <./figures//aneu_intra_1.png> <./figures//aneu-axplore_1.png> <./figures//aneu-axplore_2.png> <./figures//aneu-axplore_3.png> <./figures//aneu-axplore_4.png>] [3 <./figures//003.png> <./figures//016.png> <./figures//030.png> <./figures//087.png> <./figures//129.png> <./figures//131.png> <./figures//135.png> <./figures//146.png> <./figures//voxel.png> <./figures//point_cloud.png>]
+Underfull \hbox (badness 1675) in paragraph at lines 198--199
+\OT1/cmr/m/n/10 The AnX-plore dataset [[]] con-tains 101 3D mod-
+ []
+
+
+Underfull \hbox (badness 1348) in paragraph at lines 198--199
+\OT1/cmr/m/n/10 els of in-tracra-nial aneurysms, each with as-so-ci-ated
+ []
+
+<./figures//t-sne_mean.png, id=247, 479.8728pt x 387.1263pt>
+File: ./figures//t-sne_mean.png Graphic file (type png)
+<use ./figures//t-sne_mean.png>
+Package pdftex.def Info: ./figures//t-sne_mean.png  used on input line 211.
+(pdftex.def)             Requested size: 239.70062pt x 193.37364pt.
+<./figures//pca_mean.png, id=248, 479.8728pt x 387.1263pt>
+File: ./figures//pca_mean.png Graphic file (type png)
+<use ./figures//pca_mean.png>
+Package pdftex.def Info: ./figures//pca_mean.png  used on input line 225.
+(pdftex.def)             Requested size: 163.20374pt x 131.66254pt.
+<./figures//pca_std.png, id=249, 479.8728pt x 386.8854pt>
+File: ./figures//pca_std.png Graphic file (type png)
+<use ./figures//pca_std.png>
+Package pdftex.def Info: ./figures//pca_std.png  used on input line 226.
+(pdftex.def)             Requested size: 163.20374pt x 131.58061pt.
+<./figures//pca_min.png, id=250, 479.8728pt x 387.1263pt>
+File: ./figures//pca_min.png Graphic file (type png)
+<use ./figures//pca_min.png>
+Package pdftex.def Info: ./figures//pca_min.png  used on input line 227.
+(pdftex.def)             Requested size: 163.20374pt x 131.66254pt.
+[4 <./figures//t-sne_mean.png>]
+<./figures//t-sne_global_mean.png, id=264, 463.0098pt x 387.1263pt>
+File: ./figures//t-sne_global_mean.png Graphic file (type png)
+<use ./figures//t-sne_global_mean.png>
+Package pdftex.def Info: ./figures//t-sne_global_mean.png  used on input line 238.
+(pdftex.def)             Requested size: 239.70062pt x 200.41486pt.
+<./figures//pca_intra_features.png, id=267, 463.0098pt x 387.1263pt>
+File: ./figures//pca_intra_features.png Graphic file (type png)
+<use ./figures//pca_intra_features.png>
+Package pdftex.def Info: ./figures//pca_intra_features.png  used on input line 245.
+(pdftex.def)             Requested size: 239.70062pt x 200.41486pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./figures//cluster_11.png, id=271, 169.88843pt x 113.25896pt>
+File: ./figures//cluster_11.png Graphic file (type png)
+<use ./figures//cluster_11.png>
+Package pdftex.def Info: ./figures//cluster_11.png  used on input line 254.
+(pdftex.def)             Requested size: 101.99844pt x 68.00082pt.
+<./figures//cluster_13.png, id=272, 312.27112pt x 186.06828pt>
+File: ./figures//cluster_13.png Graphic file (type png)
+<use ./figures//cluster_13.png>
+Package pdftex.def Info: ./figures//cluster_13.png  used on input line 255.
+(pdftex.def)             Requested size: 137.70218pt x 82.04916pt.
+<./figures//cluster_14.png, id=273, 382.92314pt x 265.34955pt>
+File: ./figures//cluster_14.png Graphic file (type png)
+<use ./figures//cluster_14.png>
+Package pdftex.def Info: ./figures//cluster_14.png  used on input line 256.
+(pdftex.def)             Requested size: 142.79938pt x 98.95113pt.
+<./figures//cluster_6.png, id=274, 340.85553pt x 285.3047pt>
+File: ./figures//cluster_6.png Graphic file (type png)
+<use ./figures//cluster_6.png>
+Package pdftex.def Info: ./figures//cluster_6.png  used on input line 257.
+(pdftex.def)             Requested size: 91.79626pt x 76.83304pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[5 <./figures//pca_mean.png> <./figures//pca_std.png> <./figures//pca_min.png> <./figures//t-sne_global_mean.png> <./figures//pca_intra_features.png>]
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 269.
+
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 269.
+
+
+Class revtex4-2 Warning: Deferred float stuck during \clearpage processing.
+
+LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 290.
+(C:\Users\terve\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmss.fd
+File: ts1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+) [6 <./figures//cluster_11.png> <./figures//cluster_13.png> <./figures//cluster_14.png> <./figures//cluster_6.png>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[7]
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 494.
+
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 494.
+
+
+Class revtex4-2 Warning: Deferred float stuck during \clearpage processing.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[8]
+Underfull \hbox (badness 1365) in paragraph at lines 533--534
+[]\OT1/cmr/m/n/10 For fu-ture work, it would be in-ter-est-ing to ap-
+ []
+
+(paper.bbl [9]) [10]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[11] [12]
+File: ./figures//pca_mean.png Graphic file (type png)
+<use ./figures//pca_mean.png>
+Package pdftex.def Info: ./figures//pca_mean.png  used on input line 676.
+(pdftex.def)             Requested size: 168.30093pt x 135.77386pt.
+File: ./figures//pca_std.png Graphic file (type png)
+<use ./figures//pca_std.png>
+Package pdftex.def Info: ./figures//pca_std.png  used on input line 677.
+(pdftex.def)             Requested size: 168.30093pt x 135.68938pt.
+File: ./figures//pca_min.png Graphic file (type png)
+<use ./figures//pca_min.png>
+Package pdftex.def Info: ./figures//pca_min.png  used on input line 678.
+(pdftex.def)             Requested size: 168.30093pt x 135.77386pt.
+<./figures//pca_max.png, id=451, 479.8728pt x 387.1263pt>
+File: ./figures//pca_max.png Graphic file (type png)
+<use ./figures//pca_max.png>
+Package pdftex.def Info: ./figures//pca_max.png  used on input line 679.
+(pdftex.def)             Requested size: 168.30093pt x 135.77386pt.
+<./figures//pca_intra_mean.png, id=452, 463.0098pt x 387.1263pt>
+File: ./figures//pca_intra_mean.png Graphic file (type png)
+<use ./figures//pca_intra_mean.png>
+Package pdftex.def Info: ./figures//pca_intra_mean.png  used on input line 688.
+(pdftex.def)             Requested size: 168.30093pt x 140.71808pt.
+<./figures//pca_intra_std.png, id=453, 463.0098pt x 386.8854pt>
+File: ./figures//pca_intra_std.png Graphic file (type png)
+<use ./figures//pca_intra_std.png>
+Package pdftex.def Info: ./figures//pca_intra_std.png  used on input line 689.
+(pdftex.def)             Requested size: 168.30093pt x 140.63051pt.
+<./figures//pca_intra_min.png, id=454, 463.0098pt x 387.1263pt>
+File: ./figures//pca_intra_min.png Graphic file (type png)
+<use ./figures//pca_intra_min.png>
+Package pdftex.def Info: ./figures//pca_intra_min.png  used on input line 690.
+(pdftex.def)             Requested size: 168.30093pt x 140.71808pt.
+<./figures//pca_intra_max.png, id=455, 463.0098pt x 387.1263pt>
+File: ./figures//pca_intra_max.png Graphic file (type png)
+<use ./figures//pca_intra_max.png>
+Package pdftex.def Info: ./figures//pca_intra_max.png  used on input line 691.
+(pdftex.def)             Requested size: 168.30093pt x 140.71808pt.
+File: ./figures//t-sne_mean.png Graphic file (type png)
+<use ./figures//t-sne_mean.png>
+Package pdftex.def Info: ./figures//t-sne_mean.png  used on input line 698.
+(pdftex.def)             Requested size: 173.39813pt x 139.88518pt.
+<./figures//t-sne_std.png, id=456, 479.8728pt x 387.1263pt>
+File: ./figures//t-sne_std.png Graphic file (type png)
+<use ./figures//t-sne_std.png>
+Package pdftex.def Info: ./figures//t-sne_std.png  used on input line 699.
+(pdftex.def)             Requested size: 173.39813pt x 139.88518pt.
+<./figures//t-sne_min.png, id=457, 479.8728pt x 387.1263pt>
+File: ./figures//t-sne_min.png Graphic file (type png)
+<use ./figures//t-sne_min.png>
+Package pdftex.def Info: ./figures//t-sne_min.png  used on input line 700.
+(pdftex.def)             Requested size: 173.39813pt x 139.88518pt.
+<./figures//t-sne_max.png, id=458, 479.8728pt x 387.1263pt>
+File: ./figures//t-sne_max.png Graphic file (type png)
+<use ./figures//t-sne_max.png>
+Package pdftex.def Info: ./figures//t-sne_max.png  used on input line 701.
+(pdftex.def)             Requested size: 173.39813pt x 139.88518pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: ./figures//pca_intra_features.png Graphic file (type png)
+<use ./figures//pca_intra_features.png>
+Package pdftex.def Info: ./figures//pca_intra_features.png  used on input line 708.
+(pdftex.def)             Requested size: 173.39813pt x 144.97707pt.
+<./figures//pca_intra_features_2.png, id=459, 463.0098pt x 386.8854pt>
+File: ./figures//pca_intra_features_2.png Graphic file (type png)
+<use ./figures//pca_intra_features_2.png>
+Package pdftex.def Info: ./figures//pca_intra_features_2.png  used on input line 709.
+(pdftex.def)             Requested size: 173.39813pt x 144.88686pt.
+<./figures//t-sne_intra_features.png, id=460, 463.0098pt x 387.1263pt>
+File: ./figures//t-sne_intra_features.png Graphic file (type png)
+<use ./figures//t-sne_intra_features.png>
+Package pdftex.def Info: ./figures//t-sne_intra_features.png  used on input line 710.
+(pdftex.def)             Requested size: 173.39813pt x 144.97707pt.
+<./figures//t-sne_intra_features_2.png, id=461, 462.528pt x 387.1263pt>
+File: ./figures//t-sne_intra_features_2.png Graphic file (type png)
+<use ./figures//t-sne_intra_features_2.png>
+Package pdftex.def Info: ./figures//t-sne_intra_features_2.png  used on input line 711.
+(pdftex.def)             Requested size: 173.39813pt x 145.13065pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<./figures//pca_global_mean.png, id=462, 463.0098pt x 386.8854pt>
+File: ./figures//pca_global_mean.png Graphic file (type png)
+<use ./figures//pca_global_mean.png>
+Package pdftex.def Info: ./figures//pca_global_mean.png  used on input line 718.
+(pdftex.def)             Requested size: 173.39813pt x 144.88686pt.
+<./figures//pca_global_std.png, id=463, 462.528pt x 387.1263pt>
+File: ./figures//pca_global_std.png Graphic file (type png)
+<use ./figures//pca_global_std.png>
+Package pdftex.def Info: ./figures//pca_global_std.png  used on input line 719.
+(pdftex.def)             Requested size: 173.39813pt x 145.13065pt.
+<./figures//pca_global_min.png, id=464, 463.0098pt x 387.1263pt>
+File: ./figures//pca_global_min.png Graphic file (type png)
+<use ./figures//pca_global_min.png>
+Package pdftex.def Info: ./figures//pca_global_min.png  used on input line 720.
+(pdftex.def)             Requested size: 173.39813pt x 144.97707pt.
+<./figures//pca_global_max.png, id=465, 463.0098pt x 387.1263pt>
+File: ./figures//pca_global_max.png Graphic file (type png)
+<use ./figures//pca_global_max.png>
+Package pdftex.def Info: ./figures//pca_global_max.png  used on input line 721.
+(pdftex.def)             Requested size: 173.39813pt x 144.97707pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: ./figures//t-sne_global_mean.png Graphic file (type png)
+<use ./figures//t-sne_global_mean.png>
+Package pdftex.def Info: ./figures//t-sne_global_mean.png  used on input line 728.
+(pdftex.def)             Requested size: 173.39813pt x 144.97707pt.
+<./figures//t-sne_global_std.png, id=466, 463.0098pt x 387.1263pt>
+File: ./figures//t-sne_global_std.png Graphic file (type png)
+<use ./figures//t-sne_global_std.png>
+Package pdftex.def Info: ./figures//t-sne_global_std.png  used on input line 729.
+(pdftex.def)             Requested size: 173.39813pt x 144.97707pt.
+<./figures//t-sne_global_min.png, id=467, 463.0098pt x 387.1263pt>
+File: ./figures//t-sne_global_min.png Graphic file (type png)
+<use ./figures//t-sne_global_min.png>
+Package pdftex.def Info: ./figures//t-sne_global_min.png  used on input line 730.
+(pdftex.def)             Requested size: 173.39813pt x 144.97707pt.
+<./figures//t-sne_global_max.png, id=468, 463.0098pt x 387.1263pt>
+File: ./figures//t-sne_global_max.png Graphic file (type png)
+<use ./figures//t-sne_global_max.png>
+Package pdftex.def Info: ./figures//t-sne_global_max.png  used on input line 731.
+(pdftex.def)             Requested size: 173.39813pt x 144.97707pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./figures//cluster_2.png, id=469, 383.46246pt x 201.7088pt>
+File: ./figures//cluster_2.png Graphic file (type png)
+<use ./figures//cluster_2.png>
+Package pdftex.def Info: ./figures//cluster_2.png  used on input line 740.
+(pdftex.def)             Requested size: 168.30093pt x 88.53053pt.
+File: ./figures//cluster_6.png Graphic file (type png)
+<use ./figures//cluster_6.png>
+Package pdftex.def Info: ./figures//cluster_6.png  used on input line 741.
+(pdftex.def)             Requested size: 101.99844pt x 85.37439pt.
+<./figures//cluster_0.png, id=470, 360.81067pt x 232.98985pt>
+File: ./figures//cluster_0.png Graphic file (type png)
+<use ./figures//cluster_0.png>
+Package pdftex.def Info: ./figures//cluster_0.png  used on input line 742.
+(pdftex.def)             Requested size: 153.00156pt x 98.80072pt.
+<./figures//cluster_3.png, id=471, 343.55217pt x 252.945pt>
+File: ./figures//cluster_3.png Graphic file (type png)
+<use ./figures//cluster_3.png>
+Package pdftex.def Info: ./figures//cluster_3.png  used on input line 743.
+(pdftex.def)             Requested size: 126.98639pt x 93.49554pt.
+<./figures//cluster_4.png, id=472, 374.8332pt x 220.5853pt>
+File: ./figures//cluster_4.png Graphic file (type png)
+<use ./figures//cluster_4.png>
+Package pdftex.def Info: ./figures//cluster_4.png  used on input line 744.
+(pdftex.def)             Requested size: 162.69012pt x 95.74178pt.
+<./figures//cluster_5.png, id=473, 378.06918pt x 272.90015pt>
+File: ./figures//cluster_5.png Graphic file (type png)
+<use ./figures//cluster_5.png>
+Package pdftex.def Info: ./figures//cluster_5.png  used on input line 745.
+(pdftex.def)             Requested size: 147.39075pt x 106.38898pt.
+<./figures//cluster_1.png, id=474, 380.76582pt x 210.33806pt>
+File: ./figures//cluster_1.png Graphic file (type png)
+<use ./figures//cluster_1.png>
+Package pdftex.def Info: ./figures//cluster_1.png  used on input line 746.
+(pdftex.def)             Requested size: 168.30093pt x 92.97267pt.
+<./figures//cluster_7.png, id=475, 369.97925pt x 223.28194pt>
+File: ./figures//cluster_7.png Graphic file (type png)
+<use ./figures//cluster_7.png>
+Package pdftex.def Info: ./figures//cluster_7.png  used on input line 747.
+(pdftex.def)             Requested size: 137.18857pt x 82.79358pt.
+<./figures//cluster_8.png, id=476, 381.30515pt x 211.95604pt>
+File: ./figures//cluster_8.png Graphic file (type png)
+<use ./figures//cluster_8.png>
+Package pdftex.def Info: ./figures//cluster_8.png  used on input line 748.
+(pdftex.def)             Requested size: 162.69012pt x 90.43425pt.
+<./figures//cluster_9.png, id=477, 367.82195pt x 227.05724pt>
+File: ./figures//cluster_9.png Graphic file (type png)
+<use ./figures//cluster_9.png>
+Package pdftex.def Info: ./figures//cluster_9.png  used on input line 749.
+(pdftex.def)             Requested size: 158.09875pt x 97.59457pt.
+<./figures//cluster_10.png, id=478, 359.73201pt x 234.60783pt>
+File: ./figures//cluster_10.png Graphic file (type png)
+<use ./figures//cluster_10.png>
+Package pdftex.def Info: ./figures//cluster_10.png  used on input line 750.
+(pdftex.def)             Requested size: 158.09875pt x 103.10962pt.
+File: ./figures//cluster_11.png Graphic file (type png)
+<use ./figures//cluster_11.png>
+Package pdftex.def Info: ./figures//cluster_11.png  used on input line 751.
+(pdftex.def)             Requested size: 104.55093pt x 69.70135pt.
+<./figures//cluster_12.png, id=479, 380.76582pt x 213.0347pt>
+File: ./figures//cluster_12.png Graphic file (type png)
+<use ./figures//cluster_12.png>
+Package pdftex.def Info: ./figures//cluster_12.png  used on input line 752.
+(pdftex.def)             Requested size: 160.13763pt x 89.59747pt.
+File: ./figures//cluster_13.png Graphic file (type png)
+<use ./figures//cluster_13.png>
+Package pdftex.def Info: ./figures//cluster_13.png  used on input line 753.
+(pdftex.def)             Requested size: 144.33243pt x 86.00128pt.
+File: ./figures//cluster_14.png Graphic file (type png)
+<use ./figures//cluster_14.png>
+Package pdftex.def Info: ./figures//cluster_14.png  used on input line 754.
+(pdftex.def)             Requested size: 160.13763pt x 110.96828pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[13 <./figures//pca_max.png> <./figures//pca_intra_mean.png> <./figures//pca_intra_std.png> <./figures//pca_intra_min.png> <./figures//pca_intra_max.png>] [14 <./figures//t-sne_std.png> <./figures//t-sne_min.png> <./figures//t-sne_max.png> <./figures//pca_intra_features_2.png> <./figures//t-sne_intra_features.png> <./figures//t-sne_intra_features_2.png>] [15 <./figures//pca_global_mean.png> <./figures//pca_global_std.png> <./figures//pca_global_min.png> <./figures//pca_global_max.png> <./figures//t-sne_global_std.png> <./figures//t-sne_global_min.png> <./figures//t-sne_global_max.png>] [16 <./figures//cluster_2.png> <./figures//cluster_0.png> <./figures//cluster_3.png> <./figures//cluster_4.png> <./figures//cluster_5.png> <./figures//cluster_1.png> <./figures//cluster_7.png> <./figures//cluster_8.png> <./figures//cluster_9.png> <./figures//cluster_10.png> <./figures//cluster_12.png>] (paper.aux)
+Package rerunfilecheck Info: File `paper.out' has not changed.
+(rerunfilecheck)             Checksum: B4024EF8BCB0D232A60B8114A021C2B0;3501.
+ ) 
+Here is how much of TeX's memory you used:
+ 25508 strings out of 475386
+ 484253 string characters out of 2776905
+ 839183 words of memory out of 3000000
+ 46325 multiletter control sequences out of 15000+600000
+ 483703 words of font info for 81 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 84i,14n,89p,1379b,820s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\terve\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcss0900.pk><C:/Users/terve/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/terve/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/terve/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Users/terve/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/terve/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/terve/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/terve/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/terve/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/terve/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/terve/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/terve/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/terve/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/terve/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss9.pfb><C:/Users/terve/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/terve/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/terve/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/terve/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/terve/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/terve/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti9.pfb><C:/Users/terve/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users/terve/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt9.pfb><C:/Users/terve/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on paper.pdf (16 pages, 15965746 bytes).
+PDF statistics:
+ 650 PDF objects out of 1000 (max. 8388607)
+ 87 named destinations out of 1000 (max. 500000)
+ 458 words of extra memory for PDF output out of 10000 (max. 10000000)
+
