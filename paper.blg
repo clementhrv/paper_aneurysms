@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99d (TeX Live 2023)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: paper.aux
+The style file: unsrtnat.bst
+Database file #1: paperNotes.bib
+Database file #2: biblio.bib
+Warning--empty booktitle in graphphysics
+Warning--empty year in graphphysics
+Warning--empty year in graphphysics
+Warning--empty journal in anxplore
+Warning--empty booktitle in pfaff2021learningmeshbasedsimulationgraph
+You've used 29 entries,
+            2481 wiz_defined-function locations,
+            713 strings with 12620 characters,
+and the built_in function-call counts, 14702 in all, are:
+= -- 804
+> -- 1671
+< -- 5
++ -- 587
+- -- 528
+* -- 1477
+:= -- 2718
+add.period$ -- 105
+call.type$ -- 29
+change.case$ -- 58
+chr.to.int$ -- 28
+cite$ -- 34
+duplicate$ -- 503
+empty$ -- 913
+format.name$ -- 563
+if$ -- 2851
+int.to.chr$ -- 2
+int.to.str$ -- 30
+missing$ -- 17
+newline$ -- 171
+num.names$ -- 87
+pop$ -- 280
+preamble$ -- 1
+purify$ -- 29
+quote$ -- 0
+skip$ -- 323
+stack$ -- 0
+substring$ -- 139
+swap$ -- 77
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 203
+warning$ -- 5
+while$ -- 62
+width$ -- 0
+write$ -- 400
+(There were 5 warnings)

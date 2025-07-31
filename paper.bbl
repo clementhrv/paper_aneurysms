@@ -8,66 +8,51 @@
 \bibitem[Yang et~al.(2020)Yang, Xia, Kin, and Igarashi]{yang2020intra}
 Xi~Yang, Ding Xia, Taichi Kin, and Takeo Igarashi.
 \newblock Intra: 3d intracranial aneurysm dataset for deep learning.
-\newblock In \emph{The IEEE Conference on Computer Vision and Pattern
-  Recognition (CVPR)}, 2020.
+\newblock In \emph{The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)}, 2020.
 
-\bibitem[Yang et~al.(2023)Yang, Shi, Wei, Liu, Zhao, Ke, Pfister, and
-  Ni]{Yang_2023}
-Jiancheng Yang, Rui Shi, Donglai Wei, Zequan Liu, Lin Zhao, Bilian Ke,
-  Hanspeter Pfister, and Bingbing Ni.
-\newblock Medmnist v2 - a large-scale lightweight benchmark for 2d and 3d
-  biomedical image classification.
+\bibitem[Yang et~al.(2023)Yang, Shi, Wei, Liu, Zhao, Ke, Pfister, and Ni]{Yang_2023}
+Jiancheng Yang, Rui Shi, Donglai Wei, Zequan Liu, Lin Zhao, Bilian Ke, Hanspeter Pfister, and Bingbing Ni.
+\newblock Medmnist v2 - a large-scale lightweight benchmark for 2d and 3d biomedical image classification.
 \newblock \emph{Scientific Data}, 10\penalty0 (1), January 2023.
 \newblock ISSN 2052-4463.
 \newblock \doi{10.1038/s41597-022-01721-8}.
 \newblock URL \url{http://dx.doi.org/10.1038/s41597-022-01721-8}.
 
-\bibitem[Yu et~al.(2021)Yu, Zhang, Wang, Zhang, Song, Xiang, Liu, and
-  Cai]{yu20213dmedicalpointtransformer}
-Jianhui Yu, Chaoyi Zhang, Heng Wang, Dingxin Zhang, Yang Song, Tiange Xiang,
-  Dongnan Liu, and Weidong Cai.
-\newblock 3d medical point transformer: Introducing convolution to attention
-  networks for medical point cloud analysis, 2021.
+\bibitem[Yu et~al.(2021)Yu, Zhang, Wang, Zhang, Song, Xiang, Liu, and Cai]{yu20213dmedicalpointtransformer}
+Jianhui Yu, Chaoyi Zhang, Heng Wang, Dingxin Zhang, Yang Song, Tiange Xiang, Dongnan Liu, and Weidong Cai.
+\newblock 3d medical point transformer: Introducing convolution to attention networks for medical point cloud analysis, 2021.
 \newblock URL \url{https://arxiv.org/abs/2112.04863}.
 
 \bibitem[Liu et~al.(2023)Liu, Li, Liu, Chen, and Yuan]{10093984}
 Yifan Liu, Wuyang Li, Jie Liu, Hui Chen, and Yixuan Yuan.
-\newblock Grab-net: Graph-based boundary-aware network for medical point cloud
-  segmentation.
-\newblock \emph{IEEE Transactions on Medical Imaging}, 42\penalty0
-  (9):\penalty0 2776--2786, 2023.
+\newblock Grab-net: Graph-based boundary-aware network for medical point cloud segmentation.
+\newblock \emph{IEEE Transactions on Medical Imaging}, 42\penalty0 (9):\penalty0 2776--2786, 2023.
 \newblock \doi{10.1109/TMI.2023.3265000}.
 
 \bibitem[Qi et~al.(2016)Qi, Su, Mo, and Guibas]{pointnet}
 Charles~Ruizhongtai Qi, Hao Su, Kaichun Mo, and Leonidas~J. Guibas.
-\newblock Pointnet: Deep learning on point sets for 3d classification and
-  segmentation.
+\newblock Pointnet: Deep learning on point sets for 3d classification and segmentation.
 \newblock \emph{CoRR}, abs/1612.00593, 2016.
 \newblock URL \url{http://arxiv.org/abs/1612.00593}.
 
 \bibitem[Qi et~al.(2017)Qi, Yi, Su, and Guibas]{pointnetpp}
 Charles~Ruizhongtai Qi, Li~Yi, Hao Su, and Leonidas~J. Guibas.
-\newblock Pointnet++: Deep hierarchical feature learning on point sets in a
-  metric space.
+\newblock Pointnet++: Deep hierarchical feature learning on point sets in a metric space.
 \newblock \emph{CoRR}, abs/1706.02413, 2017.
 \newblock URL \url{http://arxiv.org/abs/1706.02413}.
 
 \bibitem[Arzani et~al.(2021)Arzani, Wang, and D’Souza]{Arzani_2021}
 Amirhossein Arzani, Jian-Xun Wang, and Roshan~M. D’Souza.
-\newblock Uncovering near-wall blood flow from sparse data with
-  physics-informed neural networks.
+\newblock Uncovering near-wall blood flow from sparse data with physics-informed neural networks.
 \newblock \emph{Physics of Fluids}, 33\penalty0 (7), July 2021.
 \newblock ISSN 1089-7666.
 \newblock \doi{10.1063/5.0055600}.
 \newblock URL \url{http://dx.doi.org/10.1063/5.0055600}.
 
 \bibitem[Suk et~al.(2024)Suk, de~Haan, Lippe, Brune, and Wolterink]{Suk_2024}
-Julian Suk, Pim de~Haan, Phillip Lippe, Christoph Brune, and Jelmer~M.
-  Wolterink.
-\newblock Mesh neural networks for se(3)-equivariant hemodynamics estimation on
-  the artery wall.
-\newblock \emph{Computers in Biology and Medicine}, 173:\penalty0 108328, May
-  2024.
+Julian Suk, Pim de~Haan, Phillip Lippe, Christoph Brune, and Jelmer~M. Wolterink.
+\newblock Mesh neural networks for se(3)-equivariant hemodynamics estimation on the artery wall.
+\newblock \emph{Computers in Biology and Medicine}, 173:\penalty0 108328, May 2024.
 \newblock ISSN 0010-4825.
 \newblock \doi{10.1016/j.compbiomed.2024.108328}.
 \newblock URL \url{http://dx.doi.org/10.1016/j.compbiomed.2024.108328}.
@@ -78,141 +63,81 @@ Jonathan~Viquerat Paul~Garnier, Vincent~Lannelongue and Elie Hachem.
 
 \bibitem[A et~al.(2024)A, P, U, Y, J, and E]{anxplore}
 Goetz A, Jeken-Rico P, Pelissier U, Chau Y, Sédat J, and Hachem E.
-\newblock Anxplore: a comprehensive fluid-structure interaction study of 101
-  intracranial aneurysms.
+\newblock Anxplore: a comprehensive fluid-structure interaction study of 101 intracranial aneurysms.
 \newblock 2024.
 
-\bibitem[Pfaff et~al.(2021)Pfaff, Fortunato, Sanchez-Gonzalez, and
-  Battaglia]{pfaff2021learningmeshbasedsimulationgraph}
+\bibitem[Pfaff et~al.(2021)Pfaff, Fortunato, Sanchez-Gonzalez, and Battaglia]{pfaff2021learningmeshbasedsimulationgraph}
 Tobias Pfaff, Meire Fortunato, Alvaro Sanchez-Gonzalez, and Peter~W. Battaglia.
 \newblock Learning mesh-based simulation with graph networks.
 \newblock 2021.
 \newblock URL \url{https://arxiv.org/abs/2010.03409}.
 
-\bibitem[Vaswani et~al.(2017)Vaswani, Shazeer, Parmar, Uszkoreit, Jones, Gomez,
-  Kaiser, and Polosukhin]{VaswaniSPUJGKP17}
-Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones,
-  Aidan~N. Gomez, Lukasz Kaiser, and Illia Polosukhin.
+\bibitem[Vaswani et~al.(2017)Vaswani, Shazeer, Parmar, Uszkoreit, Jones, Gomez, Kaiser, and Polosukhin]{VaswaniSPUJGKP17}
+Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan~N. Gomez, Lukasz Kaiser, and Illia Polosukhin.
 \newblock Attention is all you need.
 \newblock \emph{CoRR}, abs/1706.03762, 2017.
 \newblock URL \url{http://arxiv.org/abs/1706.03762}.
 
-\bibitem[Xiang et~al.(2024)Xiang, Lv, Xu, Deng, Wang, Zhang, Chen, Tong, and
-  Yang]{xiang2024structured}
-Jianfeng Xiang, Zelong Lv, Sicheng Xu, Yu~Deng, Ruicheng Wang, Bowen Zhang,
-  Dong Chen, Xin Tong, and Jiaolong Yang.
+\bibitem[Xiang et~al.(2024)Xiang, Lv, Xu, Deng, Wang, Zhang, Chen, Tong, and Yang]{xiang2024structured}
+Jianfeng Xiang, Zelong Lv, Sicheng Xu, Yu~Deng, Ruicheng Wang, Bowen Zhang, Dong Chen, Xin Tong, and Jiaolong Yang.
 \newblock Structured 3d latents for scalable and versatile 3d generation.
 \newblock \emph{arXiv preprint arXiv:2412.01506}, 2024.
 
-\bibitem[Zhao et~al.(2025)Zhao, Lai, Lin, Zhao, Liu, Yang, Feng, Yang, Zhang,
-  Yang, Shi, Liu, Wu, Lian, Yang, Tang, He, Wang, Liu, Zuo, Chen, Lei, Weng,
-  Xu, Zhu, Liu, Xu, Hu, Yang, Zhang, Liu, Huang, Wang, Zhang, Chen, Dong, Jia,
-  Cai, Yu, Tang, Zhang, Ye, He, Wu, Zhang, Tan, Xiao, Tao, Zhu, Xue, Liu, Zhao,
-  Wu, Hu, Qin, Peng, Li, Chen, Zhang, Niu, Wang, Wang, Kuang, Fan, Zheng,
-  Zhuang, He, Liu, Yang, Wang, Liu, Jiang, Huang, and
-  Guo]{zhao2025hunyuan3d20scalingdiffusion}
-Z.~Zhao, Z.~Lai, Q.~Lin, Y.~Zhao, H.~Liu, S.~Yang, Y.~Feng, M.~Yang, S.~Zhang,
-  X.~Yang, H.~Shi, S.~Liu, J.~Wu, Y.~Lian, F.~Yang, R.~Tang, Z.~He, X.~Wang,
-  J.~Liu, X.~Zuo, Z.~Chen, B.~Lei, H.~Weng, J.~Xu, Y.~Zhu, X.~Liu, L.~Xu,
-  C.~Hu, S.~Yang, S.~Zhang, Y.~Liu, T.~Huang, L.~Wang, J.~Zhang, M.~Chen,
-  L.~Dong, Y.~Jia, Y.~Cai, J.~Yu, Y.~Tang, H.~Zhang, Z.~Ye, P.~He, R.~Wu,
-  C.~Zhang, Y.~Tan, J.~Xiao, Y.~Tao, J.~Zhu, J.~Xue, K.~Liu, C.~Zhao, X.~Wu,
-  Z.~Hu, L.~Qin, J.~Peng, Z.~Li, M.~Chen, X.~Zhang, L.~Niu, P.~Wang, Y.~Wang,
-  H.~Kuang, Z.~Fan, X.~Zheng, W.~Zhuang, Y.~He, T.~Liu, Y.~Yang, D.~Wang,
-  Y.~Liu, J.~Jiang, J.~Huang, and C.~Guo.
-\newblock Hunyuan3d 2.0: Scaling diffusion models for high resolution textured
-  3d assets generation, 2025.
+\bibitem[Zhao et~al.(2025)Zhao, Lai, Lin, Zhao, Liu, Yang, Feng, Yang, Zhang, Yang, Shi, Liu, Wu, Lian, Yang, Tang, He, Wang, Liu, Zuo, Chen, Lei, Weng, Xu, Zhu, Liu, Xu, Hu, Yang, Zhang, Liu, Huang, Wang, Zhang, Chen, Dong, Jia, Cai, Yu, Tang, Zhang, Ye, He, Wu, Zhang, Tan, Xiao, Tao, Zhu, Xue, Liu, Zhao, Wu, Hu, Qin, Peng, Li, Chen, Zhang, Niu, Wang, Wang, Kuang, Fan, Zheng, Zhuang, He, Liu, Yang, Wang, Liu, Jiang, Huang, and Guo]{zhao2025hunyuan3d20scalingdiffusion}
+Z.~Zhao, Z.~Lai, Q.~Lin, Y.~Zhao, H.~Liu, S.~Yang, Y.~Feng, M.~Yang, S.~Zhang, X.~Yang, H.~Shi, S.~Liu, J.~Wu, Y.~Lian, F.~Yang, R.~Tang, Z.~He, X.~Wang, J.~Liu, X.~Zuo, Z.~Chen, B.~Lei, H.~Weng, J.~Xu, Y.~Zhu, X.~Liu, L.~Xu, C.~Hu, S.~Yang, S.~Zhang, Y.~Liu, T.~Huang, L.~Wang, J.~Zhang, M.~Chen, L.~Dong, Y.~Jia, Y.~Cai, J.~Yu, Y.~Tang, H.~Zhang, Z.~Ye, P.~He, R.~Wu, C.~Zhang, Y.~Tan, J.~Xiao, Y.~Tao, J.~Zhu, J.~Xue, K.~Liu, C.~Zhao, X.~Wu, Z.~Hu, L.~Qin, J.~Peng, Z.~Li, M.~Chen, X.~Zhang, L.~Niu, P.~Wang, Y.~Wang, H.~Kuang, Z.~Fan, X.~Zheng, W.~Zhuang, Y.~He, T.~Liu, Y.~Yang, D.~Wang, Y.~Liu, J.~Jiang, J.~Huang, and C.~Guo.
+\newblock Hunyuan3d 2.0: Scaling diffusion models for high resolution textured 3d assets generation, 2025.
 \newblock URL \url{https://arxiv.org/abs/2501.12202}.
 
-\bibitem[{Meng} et~al.(2024){Meng}, {Li}, {Nie{\ss}ner}, and
-  {Dai}]{2024arXiv240908215M}
+\bibitem[{Meng} et~al.(2024){Meng}, {Li}, {Nie{\ss}ner}, and {Dai}]{2024arXiv240908215M}
 Quan {Meng}, Lei {Li}, Matthias {Nie{\ss}ner}, and Angela {Dai}.
 \newblock {LT3SD: Latent Trees for 3D Scene Diffusion}.
 \newblock \emph{arXiv e-prints}, art. arXiv:2409.08215, September 2024.
 \newblock \doi{10.48550/arXiv.2409.08215}.
 
-\bibitem[Ling et~al.(2025)Ling, Owalekar, Adesanya, Bıyık, and
-  Seita]{ling2025impactintelligentmotionplanning}
-Yiyang Ling, Karan Owalekar, Oluwatobiloba Adesanya, Erdem Bıyık, and Daniel
-  Seita.
-\newblock Impact: Intelligent motion planning with acceptable contact
-  trajectories via vision-language models, 2025.
+\bibitem[Ling et~al.(2025)Ling, Owalekar, Adesanya, Bıyık, and Seita]{ling2025impactintelligentmotionplanning}
+Yiyang Ling, Karan Owalekar, Oluwatobiloba Adesanya, Erdem Bıyık, and Daniel Seita.
+\newblock Impact: Intelligent motion planning with acceptable contact trajectories via vision-language models, 2025.
 \newblock URL \url{https://arxiv.org/abs/2503.10110}.
 
-\bibitem[Jiang et~al.(2025)Jiang, Hsu, Zhang, Yu, Wang, and
-  Li]{jiang2025phystwinphysicsinformedreconstructionsimulation}
-Hanxiao Jiang, Hao-Yu Hsu, Kaifeng Zhang, Hsin-Ni Yu, Shenlong Wang, and Yunzhu
-  Li.
-\newblock Phystwin: Physics-informed reconstruction and simulation of
-  deformable objects from videos, 2025.
+\bibitem[Jiang et~al.(2025)Jiang, Hsu, Zhang, Yu, Wang, and Li]{jiang2025phystwinphysicsinformedreconstructionsimulation}
+Hanxiao Jiang, Hao-Yu Hsu, Kaifeng Zhang, Hsin-Ni Yu, Shenlong Wang, and Yunzhu Li.
+\newblock Phystwin: Physics-informed reconstruction and simulation of deformable objects from videos, 2025.
 \newblock URL \url{https://arxiv.org/abs/2503.17973}.
 
-\bibitem[Oquab et~al.(2024)Oquab, Darcet, Moutakanni, Vo, Szafraniec, Khalidov,
-  Fernandez, Haziza, Massa, El-Nouby, Assran, Ballas, Galuba, Howes, Huang, Li,
-  Misra, Rabbat, Sharma, Synnaeve, Xu, Jegou, Mairal, Labatut, Joulin, and
-  Bojanowski]{oquab2024dinov2learningrobustvisual}
-Maxime Oquab, Timothée Darcet, Théo Moutakanni, Huy Vo, Marc Szafraniec,
-  Vasil Khalidov, Pierre Fernandez, Daniel Haziza, Francisco Massa, Alaaeldin
-  El-Nouby, Mahmoud Assran, Nicolas Ballas, Wojciech Galuba, Russell Howes,
-  Po-Yao Huang, Shang-Wen Li, Ishan Misra, Michael Rabbat, Vasu Sharma, Gabriel
-  Synnaeve, Hu~Xu, Hervé Jegou, Julien Mairal, Patrick Labatut, Armand Joulin,
-  and Piotr Bojanowski.
+\bibitem[Oquab et~al.(2024)Oquab, Darcet, Moutakanni, Vo, Szafraniec, Khalidov, Fernandez, Haziza, Massa, El-Nouby, Assran, Ballas, Galuba, Howes, Huang, Li, Misra, Rabbat, Sharma, Synnaeve, Xu, Jegou, Mairal, Labatut, Joulin, and Bojanowski]{oquab2024dinov2learningrobustvisual}
+Maxime Oquab, Timothée Darcet, Théo Moutakanni, Huy Vo, Marc Szafraniec, Vasil Khalidov, Pierre Fernandez, Daniel Haziza, Francisco Massa, Alaaeldin El-Nouby, Mahmoud Assran, Nicolas Ballas, Wojciech Galuba, Russell Howes, Po-Yao Huang, Shang-Wen Li, Ishan Misra, Michael Rabbat, Vasu Sharma, Gabriel Synnaeve, Hu~Xu, Hervé Jegou, Julien Mairal, Patrick Labatut, Armand Joulin, and Piotr Bojanowski.
 \newblock Dinov2: Learning robust visual features without supervision, 2024.
 \newblock URL \url{https://arxiv.org/abs/2304.07193}.
 
-\bibitem[Dosovitskiy et~al.(2021)Dosovitskiy, Beyer, Kolesnikov, Weissenborn,
-  Zhai, Unterthiner, Dehghani, Minderer, Heigold, Gelly, Uszkoreit, and
-  Houlsby]{dosovitskiy2021imageworth16x16words}
-Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn,
-  Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg
-  Heigold, Sylvain Gelly, Jakob Uszkoreit, and Neil Houlsby.
-\newblock An image is worth 16x16 words: Transformers for image recognition at
-  scale, 2021.
+\bibitem[Dosovitskiy et~al.(2021)Dosovitskiy, Beyer, Kolesnikov, Weissenborn, Zhai, Unterthiner, Dehghani, Minderer, Heigold, Gelly, Uszkoreit, and Houlsby]{dosovitskiy2021imageworth16x16words}
+Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, and Neil Houlsby.
+\newblock An image is worth 16x16 words: Transformers for image recognition at scale, 2021.
 \newblock URL \url{https://arxiv.org/abs/2010.11929}.
 
-\bibitem[Deitke et~al.(2023)Deitke, Liu, Wallingford, Ngo, Michel, Kusupati,
-  Fan, Laforte, Voleti, Gadre, VanderBilt, Kembhavi, Vondrick, Gkioxari,
-  Ehsani, Schmidt, and Farhadi]{deitke2023objaversexluniverse10m3d}
-Matt Deitke, Ruoshi Liu, Matthew Wallingford, Huong Ngo, Oscar Michel, Aditya
-  Kusupati, Alan Fan, Christian Laforte, Vikram Voleti, Samir~Yitzhak Gadre,
-  Eli VanderBilt, Aniruddha Kembhavi, Carl Vondrick, Georgia Gkioxari, Kiana
-  Ehsani, Ludwig Schmidt, and Ali Farhadi.
+\bibitem[Deitke et~al.(2023)Deitke, Liu, Wallingford, Ngo, Michel, Kusupati, Fan, Laforte, Voleti, Gadre, VanderBilt, Kembhavi, Vondrick, Gkioxari, Ehsani, Schmidt, and Farhadi]{deitke2023objaversexluniverse10m3d}
+Matt Deitke, Ruoshi Liu, Matthew Wallingford, Huong Ngo, Oscar Michel, Aditya Kusupati, Alan Fan, Christian Laforte, Vikram Voleti, Samir~Yitzhak Gadre, Eli VanderBilt, Aniruddha Kembhavi, Carl Vondrick, Georgia Gkioxari, Kiana Ehsani, Ludwig Schmidt, and Ali Farhadi.
 \newblock Objaverse-xl: A universe of 10m+ 3d objects, 2023.
 \newblock URL \url{https://arxiv.org/abs/2307.05663}.
 
-\bibitem[Collins et~al.(2022)Collins, Goel, Deng, Luthra, Xu, Gundogdu, Zhang,
-  Vicente, Dideriksen, Arora, Guillaumin, and
-  Malik]{collins2022abodatasetbenchmarksrealworld}
-Jasmine Collins, Shubham Goel, Kenan Deng, Achleshwar Luthra, Leon Xu, Erhan
-  Gundogdu, Xi~Zhang, Tomas F.~Yago Vicente, Thomas Dideriksen, Himanshu Arora,
-  Matthieu Guillaumin, and Jitendra Malik.
-\newblock Abo: Dataset and benchmarks for real-world 3d object understanding,
-  2022.
+\bibitem[Collins et~al.(2022)Collins, Goel, Deng, Luthra, Xu, Gundogdu, Zhang, Vicente, Dideriksen, Arora, Guillaumin, and Malik]{collins2022abodatasetbenchmarksrealworld}
+Jasmine Collins, Shubham Goel, Kenan Deng, Achleshwar Luthra, Leon Xu, Erhan Gundogdu, Xi~Zhang, Tomas F.~Yago Vicente, Thomas Dideriksen, Himanshu Arora, Matthieu Guillaumin, and Jitendra Malik.
+\newblock Abo: Dataset and benchmarks for real-world 3d object understanding, 2022.
 \newblock URL \url{https://arxiv.org/abs/2110.06199}.
 
-\bibitem[Fu et~al.(2020)Fu, Jia, Gao, Gong, Zhao, Maybank, and
-  Tao]{fu20203dfuture3dfurnitureshape}
-Huan Fu, Rongfei Jia, Lin Gao, Mingming Gong, Binqiang Zhao, Steve Maybank, and
-  Dacheng Tao.
+\bibitem[Fu et~al.(2020)Fu, Jia, Gao, Gong, Zhao, Maybank, and Tao]{fu20203dfuture3dfurnitureshape}
+Huan Fu, Rongfei Jia, Lin Gao, Mingming Gong, Binqiang Zhao, Steve Maybank, and Dacheng Tao.
 \newblock 3d-future: 3d furniture shape with texture, 2020.
 \newblock URL \url{https://arxiv.org/abs/2009.09633}.
 
-\bibitem[Khanna et~al.(2023)Khanna, Mao, Jiang, Haresh, Shacklett, Batra,
-  Clegg, Undersander, Chang, and
-  Savva]{khanna2023habitatsyntheticscenesdataset}
-Mukul Khanna, Yongsen Mao, Hanxiao Jiang, Sanjay Haresh, Brennan Shacklett,
-  Dhruv Batra, Alexander Clegg, Eric Undersander, Angel~X. Chang, and Manolis
-  Savva.
-\newblock Habitat synthetic scenes dataset (hssd-200): An analysis of 3d scene
-  scale and realism tradeoffs for objectgoal navigation, 2023.
+\bibitem[Khanna et~al.(2023)Khanna, Mao, Jiang, Haresh, Shacklett, Batra, Clegg, Undersander, Chang, and Savva]{khanna2023habitatsyntheticscenesdataset}
+Mukul Khanna, Yongsen Mao, Hanxiao Jiang, Sanjay Haresh, Brennan Shacklett, Dhruv Batra, Alexander Clegg, Eric Undersander, Angel~X. Chang, and Manolis Savva.
+\newblock Habitat synthetic scenes dataset (hssd-200): An analysis of 3d scene scale and realism tradeoffs for objectgoal navigation, 2023.
 \newblock URL \url{https://arxiv.org/abs/2306.11290}.
 
 \bibitem[Wu et~al.(2015)Wu, Song, Khosla, Yu, Zhang, Tang, and Xiao]{7298801}
-Zhirong Wu, Shuran Song, Aditya Khosla, Fisher Yu, Linguang Zhang, Xiaoou Tang,
-  and Jianxiong Xiao.
+Zhirong Wu, Shuran Song, Aditya Khosla, Fisher Yu, Linguang Zhang, Xiaoou Tang, and Jianxiong Xiao.
 \newblock 3d shapenets: A deep representation for volumetric shapes.
-\newblock In \emph{2015 IEEE Conference on Computer Vision and Pattern
-  Recognition (CVPR)}, pages 1912--1920, 2015.
+\newblock In \emph{2015 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)}, pages 1912--1920, 2015.
 \newblock \doi{10.1109/CVPR.2015.7298801}.
 
 \bibitem[Hendrycks and Gimpel(2023)]{hendrycks2023gaussianerrorlinearunits}

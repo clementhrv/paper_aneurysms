@@ -19,6 +19,7 @@
 \usepackage{multirow}
 \usepackage{array}
 \usepackage{tabularx}
+\usepackage{todonotes}
 \usetikzlibrary{positioning, shapes.geometric, arrows.meta, calc}
 
 \begin{document}
@@ -40,7 +41,6 @@
 \author{Elie Hachem}
 \affiliation{Mines Paris, PSL University, Centre for Material Forming (CEMEF), UMR CNRS 7635, rue Claude Daunesse, 06904 Sophia-Antipolis, France}
 
-\date{\today}
 
 \begin{abstract}
 Intracranial aneurysms pose a significant risk, as they often remain asymptomatic until rupture, which can lead to life-threatening complications. In this study, we introduce novel surface features to enhance the performance of neural networks for classifying and segmenting 3D intracranial aneurysms, as well as for improving blood flow simulations using graph neural networks. Our results show that incorporating these features significantly boosts the effectiveness of 3D point cloud processing models, enabling them to outperform state-of-the-art approaches. This advancement not only aids in the early detection and treatment of aneurysms but also contributes to a deeper understanding of their formation and progression. Neural networks using surface features from models trained on various data provide a way to improve 3D medical object processing, paving the way for future research in the medical field.
@@ -58,6 +58,7 @@ Intracranial aneurysms pose a significant risk, as they often remain asymptomati
 \maketitle
 
 \section{Introduction} \label{INTRO}
+
 Intracranial aneurysms are life-threatening conditions that often remain undetected until rupture. Early detection is crucial to prevent such events. However, the main challenge is that aneurysms typically present no symptoms before rupturing, and their discovery often occurs incidentally during medical examinations for unrelated reasons. The objective is to enhance detection accuracy using various imaging techniques, such as Magnetic Resonance Angiography (MRA) scans. Furthermore, when aneurysms are detected, surgery is often required to prevent rupture. This procedure can be facilitated by using 3D simulations of blood flow, which help surgeons better understand aneurysm behavior and plan interventions accordingly.
 
 By leveraging 3D modeling of the brain’s vascular system reconstructed from MRA images, it becomes easier to identify aneurysms. With this approach in mind, we trained classification and segmentation algorithms using the Intra 3D dataset \citep{yang2020intra}. This dataset provides 3D models of both healthy blood vessels and aneurysms in different formats, including meshes and point clouds. Intra 3D is part of the large MedMNIST v2 database \citep{Yang_2023}, which is a large 3D medical object database, and new classification and segmentation models such as 3DMedPT \citep{yu20213dmedicalpointtransformer} and GRAB-net \citep{10093984} have achieved good results on this dataset. Furthermore, the Intra3D study \citep{yang2020intra} also provides classification and segmentation results from neural networks trained on their dataset. From those neural networks, we selected PointNet \citep{pointnet} and PointNet++ \citep{pointnetpp}, which are designed to process 3D point clouds. These networks can learn to classify aneurysms based on their geometric features, enabling more accurate detection. Our goal is to improve the performance of these neural networks by incorporating additional surface features extracted from the 3D models of aneurysms and healthy vessels.
@@ -72,22 +73,16 @@ These extracted features were then used to boost neural network performance, imp
 
 The main algorithms and neural network architectures are introduced in \autoref{RELATED}. The datasets used for evaluation are described in \autoref{DATASET}. In \autoref{FEATURES}, we analyze the extracted surface features and demonstrate their effectiveness for distinguishing between aneurysms and healthy vessels. Our methodology is presented in \autoref{METHODOLOGY}, and the results of the classification and segmentation tasks are discussed in \autoref{RESULTS}. Finally, we conclude with a summary of our findings and potential future work in \autoref{CONCLUSION}.
 
-\begin{figure}[h]
+\begin{figure}[!h]
   \centering
-  \includegraphics[width=0.18\textwidth]{vessel_intra_1.png}
-  \includegraphics[width=0.14\textwidth]{vessel_intra_2.png}\\
-  \includegraphics[width=0.16\textwidth]{aneu_intra_2.png}
-  \includegraphics[width=0.19\textwidth]{aneu_intra_1.png}
+  \includegraphics[width=0.5\textwidth]{intra.png}
   \caption{Examples of intracranial aneurysms and vessels from the Intra 3D dataset.}
   \label{fig:intra_aneurysms}
 \end{figure}
 
-\begin{figure}[h]
+\begin{figure}[!h]
   \centering
-  \includegraphics[width=0.17\textwidth]{aneu-axplore_1.png}\hspace{0.7em}
-  \includegraphics[width=0.17\textwidth]{aneu-axplore_2.png}\\[0.7em]
-  \includegraphics[width=0.17\textwidth]{aneu-axplore_3.png}\hspace{0.7em}
-  \includegraphics[width=0.17\textwidth]{aneu-axplore_4.png}
+  \includegraphics[width=0.5\textwidth]{anxplore.png}
   \caption{Examples of aneurysms from the AnXplore dataset}
   \label{fig:anxplore_aneurysms}
 \end{figure}
@@ -98,7 +93,7 @@ The main algorithms and neural network architectures are introduced in \autoref{
 
 \begin{figure*}
   \centering
-  \begin{subfigure}[b]{0.35\textwidth}
+  \begin{subfigure}[b]{0.44\textwidth}
     \centering
     \includegraphics[width=0.22\textwidth]{003.png}
     \includegraphics[width=0.22\textwidth]{016.png}
@@ -112,17 +107,12 @@ The main algorithms and neural network architectures are introduced in \autoref{
     \caption{Rendered views of 3D objects}
   \end{subfigure}
   \hfill
-  \begin{subfigure}[b]{0.3\textwidth}
-    \includegraphics[width=\textwidth]{voxel.png}
-    \caption{Voxelized view}
-  \end{subfigure}
-  \hfill
-  \begin{subfigure}[b]{0.3\textwidth}
+  \begin{subfigure}[b]{0.44\textwidth}
     \includegraphics[width=\textwidth]{point_cloud.png}
     \caption{Point cloud}
   \end{subfigure}
 
-  \caption{Illustrations of rendered views, voxelized view, and point cloud of an aneurysm from the Intra 3D dataset.}
+  \caption{Illustrations of rendered views and point cloud of an aneurysm from the Intra 3D dataset.}
   \label{fig:combined_views}
 \end{figure*}
 
@@ -521,7 +511,7 @@ Additionally, this approach impacts the training time for the models. For point 
 Another important aspect is the encoding time: encoding 400 objects with TRELLIS on an A100 GPU takes about 12 hours, which averages to five minutes per object. While this is a significant amount of time, it is a one-time process—after encoding, we can train different models on the resulting dataset. In comparison, running the entire pipeline of encoding and training on the full dataset would increase the total time by a factor of 30 compared to training point cloud processing models such as PointNet or PointNet++ alone.
 
 \section{Conclusion} \label{CONCLUSION}
-
+\todo{Recheck every bib/doi}
 In this work, we explored the use of TRELLIS \citep{xiang2024structured} features for 3D medical object classification and segmentation tasks, specifically on the Intra 3D dataset \citep{yang2020intra} and the AnXplore dataset \citep{anxplore}. We showed that using TRELLIS features significantly improves the performance of PointNet \citep{pointnet} and PointNet++ \citep{pointnetpp} compared to using only point coordinates and normals. The results indicate that TRELLIS features enhance the classification accuracy on aneurysms and vessels, achieving state-of-the-art performance on the Intra 3D dataset \citep{yang2020intra}.
 
 We also applied TRELLIS features to the AnXplore dataset \citep{anxplore} for blood flow simulation using Graph Neural Networks (GNNs), demonstrating the versatility of these features for different 3D tasks.
